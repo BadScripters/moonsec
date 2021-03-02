@@ -1,1 +1,37 @@
-
+[
+    {
+       "label":"Arabic",
+       "description":"1",
+       "detail":"ئضسزقكنؠ"
+    },
+     {
+       "label":"Letters",
+       "description":"2",
+       "detail":"1C8MlIioO0NH"
+    },
+     {
+       "label":"Symbols",
+       "description":"3",
+       "detail":"/+^,;.:_#"
+    },
+     {
+       "label":"Russian",
+       "description":"4",
+       "detail":"ртыуиоп"
+    },
+     {
+       "label":"Whitespace",
+       "description":"5",
+       "detail":" "
+    },
+     {
+       "label":"Chinese",
+       "description":"6",
+       "detail":"㒚㒛㒜㒝㒞㒟㒠㒡"
+    },
+     {
+       "label":"Emoji",
+       "description":"7",
+       "detail":"😝😇😁🙃🙃😉😅"
+    }
+ ]
