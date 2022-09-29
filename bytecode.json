@@ -33,5 +33,12 @@
        "label":"Emoji",
        "description":"6",
        "detail":"😝😇😁🙃🙃😉😅"
+    },
+     {
+       "label":"Bytecode",
+       "description":"6",
+       "detail":"100\145"
     }
+ ]
+
  ]
